@@ -7,13 +7,12 @@ first_name: Khai
 middle_name: C 
 last_name: Ang
 contact_note: >
-Lab address
-Penn State College of Medicine
-500 University Drive, 
-Room C7850, Mail Code H059
-Hershey, PA 
-17033
-United States
+contact_note: >
+  Penn State College of Medicine,
+  500 University Drive,
+  Room C7850, Mail Code H059,
+  Hershey, PA 17033,
+  United States.
 Phone: 717-531-4132
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Coming soon! 
