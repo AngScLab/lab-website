@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Assistant Professor, Department of Pathology | Scientific Director, Penn State Zebrafish Facility
+subtitle: <a href='#'>Affiliations</a>. "Assistant Professor, Department of Pathology | Scientific Director, Penn State Zebrafish Facility"
 
 profile:
   align: right
-  image: lab logo.jpg
+  image: lab_logo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Penn State College of Medicine</p>
