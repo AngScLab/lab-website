@@ -451,9 +451,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-genetics-of-pigmentation",
-          title: 'Genetics of Pigmentation',
-          description: "with background image",
+          section: "News",},{id: "projects-genetics-of-skin-color",
+          title: 'Genetics of Skin Color',
+          description: "Understanding the genetic basis of skin pigmentation across global populations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
