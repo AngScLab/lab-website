@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Penn State College of Medicine</p>
-    <p>500 University Drive, 
-  Room C7850, Mail Code H059</p>
+    <p>500 University Drive</p>
+    <p>Room C7850, Mail Code H059</p>
     <p>Hershey, PA 17033</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
