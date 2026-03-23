@@ -461,9 +461,9 @@ ninja.data = [{
           description: "Using Daphnia as model organisms for ecotoxicology, chemical risk assessment, and histopathological characterization.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-3d-microanatomical-atlasing",
+          title: '3D Microanatomical Atlasing',
+          description: "Building multi-scale 3D atlases integrating microCT, histology, fluorescence imaging, and -omics data across model organisms.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
