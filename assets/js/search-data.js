@@ -451,12 +451,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-genetics-of-skin-color",
-          title: 'Genetics of Skin Color',
-          description: "Understanding the genetic basis of skin pigmentation across global populations",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-daphnia-as-environmental-sentinels",
+          section: "News",},{id: "projects-daphnia-as-environmental-sentinels",
           title: 'Daphnia as Environmental Sentinels',
           description: "Using Daphnia as model organisms for ecotoxicology, chemical risk assessment, and histopathological characterization.",
           section: "Projects",handler: () => {
@@ -466,6 +461,11 @@ ninja.data = [{
           description: "Building multi-scale 3D atlases integrating microCT, histology, fluorescence imaging, and -omics data across model organisms.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-genetics-of-skin-color",
+          title: 'Genetics of Skin Color',
+          description: "Understanding the genetic basis of skin pigmentation across global populations",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Pigmentation/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
