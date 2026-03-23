@@ -456,9 +456,9 @@ ninja.data = [{
           description: "Understanding the genetic basis of skin pigmentation across global populations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-daphnia-as-environmental-sentinels",
+          title: 'Daphnia as Environmental Sentinels',
+          description: "Using Daphnia as model organisms for ecotoxicology, chemical risk assessment, and histopathological characterization.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
