@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Genetics of Pigmentation
 description: with background image
 img: assets/img/12.jpg
 importance: 1
@@ -8,16 +8,13 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
+    title: Genetics of Pigmentation
+    description: The genetic basis of skin color across global populations is an age-old mystery. The dark skin of African populations, the ancestral state in humans, is protective in regions with high solar UV exposure. The dark skin, ancestral state of African populations protects them in regions with strong sun intensity. In contrast, the light skin of Europeans has a selective advantage in northerly latitudes due to higher sun-dependent generation of vitamin D. European skin is associated with up to a 30 fold increased risk of melanoma, (the deadliest form of skin cancer). Surprisingly, East Asians, although light-skinned, have very low risk of melanoma: their rates of disease are comparable to Africans. In addition, they do not carry the pervasive European light skin color genes (<i>SLC24A5</i> & <i>SLC45A2</i>), which means that they must carry a genetic variation that functions similarly. We want to identify the East Asian light skin color gene through studying populations with a combination of the ancestral genes (African) and the primary East Asian light skin color genes, which would most likely be found in Indigenous populations originally from East Asia.
     img: /assets/img/12.jpg
     ---
 
