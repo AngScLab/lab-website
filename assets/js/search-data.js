@@ -451,16 +451,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-daphnia-as-environmental-sentinels",
-          title: 'Daphnia as Environmental Sentinels',
-          description: "Using Daphnia as model organisms for ecotoxicology, chemical risk assessment, and histopathological characterization.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-3d-microanatomical-atlasing",
+          section: "News",},{id: "projects-3d-microanatomical-atlasing",
           title: '3D Microanatomical Atlasing',
           description: "Building multi-scale 3D atlases integrating microCT, histology, fluorescence imaging, and -omics data across model organisms.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-daphnia-as-environmental-sentinels",
+          title: 'Daphnia as Environmental Sentinels',
+          description: "Using Daphnia as model organisms for ecotoxicology, chemical risk assessment, and histopathological characterization.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Exotoxicology/";
             },},{id: "projects-genetics-of-skin-color",
           title: 'Genetics of Skin Color',
           description: "Understanding the genetic basis of skin pigmentation across global populations",
