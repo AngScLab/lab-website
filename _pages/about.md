@@ -17,12 +17,12 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-# social link
+# Social links
 google_scholar_userid: K8pXwhsAAAAJ
 linkedin_username: khaicang
 bluesky_url: https://bsky.app/profile/khaichung.bsky.social
 github_username: angsclab
-orcid_id:  0000-0001-7695-9953
+orcid_id: 0000-0001-7695-9953
 
 announcements:
   enabled: true # includes a list of news items
