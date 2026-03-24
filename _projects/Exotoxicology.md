@@ -2,7 +2,7 @@
 layout: page
 title: Daphnia as Environmental Sentinels
 description: Using Daphnia as model organisms for ecotoxicology, chemical risk assessment, and histopathological characterization.
-img: assets/img/project2.jpg
+img: assets/img/MaleDaphnia.tif
 importance: 2
 category: work
 ---
