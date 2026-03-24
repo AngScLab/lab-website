@@ -4,7 +4,7 @@ title: Genetics of Skin Color
 description: Understanding the genetic basis of skin pigmentation across global populations
 img: assets/img/project1.jpg
 importance: 1
-category: research
+category: work
 ---
 
 The genetic basis of skin color across global populations is an age-old mystery. 
