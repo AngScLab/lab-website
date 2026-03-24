@@ -17,6 +17,13 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
+# social link
+google_scholar_userid: K8pXwhsAAAAJ
+linkedin_username: khaicang
+bluesky_url: https://bsky.app/profile/khaichung.bsky.social
+github_username: angsclab
+orcid_id:  0000-0001-7695-9953
+
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -36,9 +43,3 @@ To visualize and analyze complex biological structures, our lab is actively enga
 The third pillar of our research is ecotoxicology, where we investigate the effects of environmental pollutants on aquatic life. By exposing our model organisms, Daphnia and zebrafish, to various substances, we can assess their toxicity and begin to understand the molecular and physiological mechanisms of their impact. Both Daphnia and zebrafish are excellent indicator species for environmental stress due to their sensitivity to pollutants and their well-characterized genetics.
 
 Our research is highly interdisciplinary, integrating approaches from genetics, developmental biology, toxicology, and computational biology. By studying how the genetic blueprint for pigmentation is expressed and how it can be altered by environmental factors, and by visualizing these changes in a three-dimensional context, we aim to gain a deeper understanding of the complex interplay between genes and the environment. We are passionate about our work and committed to contributing to both fundamental biological knowledge and the development of new tools for assessing environmental health.
-
-
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
