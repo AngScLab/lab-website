@@ -4,7 +4,7 @@ title: 3D Microanatomical Atlasing
 description: Building multi-scale 3D atlases integrating microCT, histology, fluorescence imaging, and -omics data across model organisms.
 img: assets/img/project3.jpg
 importance: 3
-category: research
+category: work
 ---
 
 Whole-organism phenotyping is vital for understanding how genetic and environmental 
