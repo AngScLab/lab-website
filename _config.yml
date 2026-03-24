@@ -28,6 +28,14 @@ last_updated: false # set to true if you want to display last updated in the foo
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
+# Social links
+google_scholar_userid: K8pXwhsAAAAJ
+linkedin_username: khaicang
+bluesky_url: https://bsky.app/profile/khaichung.bsky.social
+github_username:  angsclab
+orcid_id: 0000-0001-7695-9953
+email:  -
+
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
@@ -133,16 +141,16 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-    categories: [external-posts]
-    tags: [medium]
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
-    categories: [external-posts]
-    tags: [google]
+#  - name: medium.com
+#   rss_url: https://medium.com/@al-folio/feed
+#    categories: [external-posts]
+#    tags: [medium]
+#  - name: Google Blog
+#    posts:
+#      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#        published_date: 2024-05-14
+#    categories: [external-posts]
+#    tags: [google]
 
 # -----------------------------------------------------------------------------
 # Newsletter
