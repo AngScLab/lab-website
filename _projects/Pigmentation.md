@@ -2,7 +2,7 @@
 layout: page
 title: Genetics of Skin Color
 description: Understanding the genetic basis of skin pigmentation across global populations
-img: assets/img/project1.jpg
+img: assets/img/SKinColor.png
 importance: 1
 category: work
 ---
