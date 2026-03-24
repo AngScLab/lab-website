@@ -31,6 +31,5 @@ By incorporating molecular and morphological data within a unified, organism-wid
 context, this 3D atlas platform enables multi-scale interrogation of how genetic 
 variation and environmental perturbations drive phenotype — serving as a foundation 
 for future applications across model organisms and human atlases.
-```
 
 ---
