@@ -290,9 +290,9 @@ display_categories: ["external-services"] # these categories will be displayed o
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-scholar:  K8pXwhsAAAAJ
-  last_name: Ang
-  first_name: Khai C
+scholar:
+  last_name: [Ang]
+  first_name: [Khai, Khai C]
 
   style: apa
   locale: en
