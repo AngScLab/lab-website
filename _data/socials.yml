@@ -10,6 +10,6 @@ scholar_userid: K8pXwhsAAAAJ # your Google Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social:
   url: https://bsky.app/profile/khaichung.bsky.social
-  logo: assets/img/bluesky_media_kit_banner_4.jpeg
+  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/120px-Bluesky_Logo.svg.png
   title: Bluesky
 #  url: https://www.alberteinstein.com/
