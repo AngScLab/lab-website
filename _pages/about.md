@@ -34,6 +34,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<bold> We are building our lab webpage. Please visit https://angkc.com Thank you for your patience. </bold>
+
+
 Welcome to our interdisciplinary biological sciences research group. We are a dynamic and inquisitive team dedicated to understanding the intricate connections between genetics, development, and environmental health. Our research is centered on three core areas: the genetics of pigmentation, the development of 3D microanatomical atlases, and ecotoxicology. To explore these fascinating questions, we primarily use the powerful model organisms zebrafish (<i>Danio rerio</i>) and water flea (<i>Daphnia</i>).
 
 Our work on the genetics of pigmentation seeks to understand the fundamental genetic and molecular pathways that control skin pigmentation. Pigmentation is a powerful model for studying gene function and evolution, and it can also serve as a visible indicator of an organism's health and response to environmental stressors.
