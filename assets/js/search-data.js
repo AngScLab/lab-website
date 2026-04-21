@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "We study how genomes encode biological diversity and what happens when that diversity meets a changing world.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
