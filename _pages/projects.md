@@ -1,8 +1,9 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: We study how genomes encode biological diversity and what happens when that diversity meets a changing world. Our research sits at the intersection of human genetics, environmental science, and digital biology. We work across three interconnected programmes: the genetics of skin pigmentation and its link to melanoma risk, precision toxicology and environmental biomonitoring using Daphnia as a sentinel organism, and the development of 3D microanatomical atlases as open, reusable infrastructure for quantitative biology. Our primary model organisms are zebrafish (*Danio rerio*) and the water flea (*Daphnia*), chosen for their genetic tractability, experimental versatility, and direct relevance to human health and ecosystem health.
+description: We study how genomes encode biological diversity and what happens when that diversity meets a changing world. 
+Our research sits at the intersection of human genetics, environmental science, and digital biology. We work across three interconnected programmes: the genetics of skin pigmentation and its link to melanoma risk, precision toxicology and environmental biomonitoring using Daphnia as a sentinel organism, and the development of 3D microanatomical atlases as open, reusable infrastructure for quantitative biology. Our primary model organisms are zebrafish (*Danio rerio*) and the water flea (*Daphnia*), chosen for their genetic tractability, experimental versatility, and direct relevance to human health and ecosystem health.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
