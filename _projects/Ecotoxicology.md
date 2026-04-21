@@ -14,7 +14,7 @@ sentinels in regulatory toxicology and chemical risk assessment.
 
 Biomolecular (-omic) assessments of responses to chemical toxicity reveal detailed 
 molecular signatures that become more powerful when correlated with other phenotypic 
-outcomes — such as behavioral, physiological, or histopathological — for comparative 
+outcomes such as behavioral, physiological, or histopathological for comparative 
 validation and regulatory relevance.
 
 However, the lack of histopathology or tissue phenotype characterization of this 
