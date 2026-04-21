@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "Projects",
-          description: "We study how genomes encode biological diversity and what happens when that diversity meets a changing world.",
+          title: "projects",
+          description: "We study how genomes encode biological diversity and what happens when that diversity meets a changing world. Our research sits at the intersection of human genetics, environmental science, and digital biology.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
