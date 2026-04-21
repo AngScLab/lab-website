@@ -11,8 +11,7 @@ Whole-organism phenotyping is vital for understanding how genetic and environmen
 factors determine normal and disease phenotypes. Atlas resources that integrate 
 unbiased "-omics" and tissue morphology facilitate this goal.
 
-While traditional 2D histology provides subcellular detail, its inherent limitations 
-— destructive preparation, two-dimensional perspective, and sampling artifacts — 
+While traditional 2D histology provides subcellular detail, its inherent limitations, destructive preparation, two-dimensional perspective, and sampling artifacts 
 restrict insights into the 3D structure and organization of cells within tissues.
 
 To overcome these limitations, we integrate microCT imaging to add 3D representations 
@@ -29,7 +28,7 @@ visualization capabilities.
 
 By incorporating molecular and morphological data within a unified, organism-wide 
 context, this 3D atlas platform enables multi-scale interrogation of how genetic 
-variation and environmental perturbations drive phenotype — serving as a foundation 
+variation and environmental perturbations drive phenotype, serving as a foundation 
 for future applications across model organisms and human atlases.
 
 ---
