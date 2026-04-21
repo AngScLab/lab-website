@@ -438,7 +438,7 @@ ninja.data = [{
           title: 'Daphnia as Environmental Sentinels',
           description: "Using Daphnia as model organisms for ecotoxicology, chemical risk assessment, and histopathological characterization.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Exotoxicology/";
+              window.location.href = "/projects/Ecotoxicology/";
             },},{id: "projects-genetics-of-skin-color",
           title: 'Genetics of Skin Color',
           description: "Understanding the genetic basis of skin pigmentation across global populations",
