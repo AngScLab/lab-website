@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>717-531-4132</p>
-      <p>500 University Drive, Room C7850</p>
+      <p>500 University Drive,      Room C7850</p>
       <p>Hershey, PA 17033</p>
   - align: left
     image: 
@@ -23,7 +23,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>717-531-4132</p>
-      <p>500 University Drive, Room C7850</p>
+      <p>500 University Drive,      Room C7850</p>
       <p>Hershey, PA 17033</p>
   - align: right
     image: 
@@ -31,7 +31,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>717-531-4132</p>
-      <p>500 University Drive, Room C7850</p>
+      <p>500 University Drive,      Room C7850</p>
       <p>Hershey, PA 17033</p>
   - align: left
     image: 
@@ -39,7 +39,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>717-531-4132</p>
-      <p>500 University Drive, Room C7850</p>
+      <p>500 University Drive,      Room C7850</p>
       <p>Hershey, PA 17033</p>
   - align: right
     image: 
@@ -47,7 +47,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>717-531-4132</p>
-      <p>500 University Drive, Room C7850</p>
+      <p>500 University Drive,      Room C7850</p>
       <p>Hershey, PA 17033</p>
   - align: left
     image: 
@@ -55,7 +55,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>717-531-4132</p>
-      <p>500 University Drive, Room C7850</p>
+      <p>500 University Drive,      Room C7850</p>
       <p>Hershey, PA 17033</p>
   - align: right
     image: 
@@ -63,7 +63,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>717-531-4132</p>
-      <p>500 University Drive, Room C7850</p>
+      <p>500 University Drive,      Room C7850</p>
       <p>Hershey, PA 17033</p>
   - align: left
     image: 
@@ -71,6 +71,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>717-531-4132</p>
-      <p>500 University Drive, Room C7850</p>
+      <p>500 University Drive,      Room C7850</p>
       <p>Hershey, PA 17033</p>
 ---
