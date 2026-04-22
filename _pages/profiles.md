@@ -19,11 +19,57 @@ profiles:
       <p>Hershey, PA 17033</p>
   - align: left
     image: 
-    content: team.md
+    content: SH.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>717-531-4132</p>
       <p>500 University Drive,      Room C7850</p>
       <p>Hershey, PA 17033</p>
-  -
+  -- align: right
+    image: JEC.md
+    content: KCA.md
+    image_circular: False # crops the image to make it circular
+    more_info: >
+      <p>717-531-5301</p>
+      <p>500 University Drive,      Room C7866</p>
+      <p>Hershey, PA 17033</p>
+  - align: left
+    image: 
+    content: RZ.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>717-531-5301</p>
+      <p>500 University Drive,      Room C7866</p>
+      <p>Hershey, PA 17033</p>
+  - align: right
+    image: 
+    content: AYL.md
+    image_circular: False # crops the image to make it circular
+    more_info: >
+      <p>717-531-4704</p>
+      <p>500 University Drive,      Room C7804</p>
+      <p>Hershey, PA 17033</p>
+  - align: left
+    image: 
+    content: MSN.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>717-531-4132</p>
+      <p>500 University Drive,      Room C7850</p>
+      <p>Hershey, PA 17033</p>
+  - align: right
+    image: 
+    content: KAE.md
+    image_circular: False # crops the image to make it circular
+    more_info: >
+      <p>717-531-4132</p>
+      <p>500 University Drive,      Room C7850</p>
+      <p>Hershey, PA 17033</p>
+  - align: left
+    image: 
+    content: DEN.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>500 University Drive,      Room CG604</p>
+      <p>Hershey, PA 17033</p>
 ---
