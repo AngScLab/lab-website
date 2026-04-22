@@ -25,7 +25,7 @@ profiles:
       <p>717-531-4132</p>
       <p>500 University Drive,      Room C7850</p>
       <p>Hershey, PA 17033</p>
-  -- align: right
+  - align: right
     image: JEC.md
     content: KCA.md
     image_circular: False # crops the image to make it circular
