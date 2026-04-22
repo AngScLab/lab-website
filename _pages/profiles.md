@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: KCAngWebpage.jpeg
     content: team.md
-    image_circular: True # crops the image to make it circular
+    image_circular: False # crops the image to make it circular
     more_info: >
       <p>717-531-4132</p>
       <p>500 University Drive,      Room C7850</p>
