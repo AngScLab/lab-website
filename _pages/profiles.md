@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: KCAngWebpage.jpeg
-    content: team.md
+    content: KCA.md
     image_circular: False # crops the image to make it circular
     more_info: >
       <p>717-531-4132</p>
