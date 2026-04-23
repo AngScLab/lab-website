@@ -13,8 +13,7 @@ profiles:
     image: KCAngWebpage.jpeg
     content: KCA.md
     image_circular: False # crops the image to make it circular
-    image_class: width: 250px;
-    height: 300px;
+    image_class: width: 250px; height: 300px
     more_info: >
       <p>717-531-4132</p>
       <p>500 University Drive</p>
