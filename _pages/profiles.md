@@ -55,7 +55,7 @@ profiles:
       <p>Hershey, PA 17033</p>
   
   - align: left
-    image: assets/img/MSN.jpg
+    image: MSN.jpg
     content: MSN.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -64,7 +64,7 @@ profiles:
       <p>Hershey, PA 17033</p>
   
   - align: right
-    image: assets/img/KAE.png
+    image: KAE.png
     content: KAE.md
     image_circular: False # crops the image to make it circular
     more_info: >
@@ -73,7 +73,7 @@ profiles:
       <p>Hershey, PA 17033</p>
   
   - align: left
-    image: assets/img/DEN.JPG
+    image: DEN.JPG
     content: DEN.md
     image_circular: false # crops the image to make it circular
     more_info: >
