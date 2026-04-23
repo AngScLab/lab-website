@@ -16,7 +16,7 @@ profiles:
     more_info: >
       <p>717-531-4132</p>
       <p>500 University Drive</p>
-      </p>Room CG604</p>
+      <p>Room C7850</p>
       <p>Hershey, PA 17033</p>
 
   - align: left
@@ -26,7 +26,7 @@ profiles:
     more_info: >
       <p>717-531-4132</p>
       <p>500 University Drive</p>
-      </p>Room CG604</p>
+      <p>Room C7850</p>
       <p>Hershey, PA 17033</p>
  
   - align: right
@@ -36,7 +36,7 @@ profiles:
     more_info: >
       <p>717-531-5301</p>
       <p>500 University Drive</p>
-      </p>Room CG604</p>
+      <p>Room C7866</p>
       <p>Hershey, PA 17033</p>
 
   - align: left
@@ -46,7 +46,7 @@ profiles:
     more_info: >
       <p>717-531-5301</p>
       <p>500 University Drive</p>
-      </p>Room CG604</p>
+      <p>Room C7866</p>
       <p>Hershey, PA 17033</p>
   
   - align: right
@@ -56,7 +56,7 @@ profiles:
     more_info: >
       <p>717-531-4704</p>
       <p>500 University Drive</p>
-      </p>Room CG604</p>
+      <p>Room C7804</p>
       <p>Hershey, PA 17033</p>
   
   - align: left
@@ -66,7 +66,7 @@ profiles:
     more_info: >
       <p>717-531-4132</p>
       <p>500 University Drive</p>
-      </p>Room CG604</p>
+      <p>Room C7850</p>
       <p>Hershey, PA 17033</p>
   
   - align: right
@@ -76,7 +76,7 @@ profiles:
     more_info: >
       <p>717-531-4132</p>
       <p>500 University Drive</p>
-      </p>Room CG604</p>
+      <p>Room C7850</p>
       <p>Hershey, PA 17033</p>
   
   - align: left
@@ -85,6 +85,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>500 University Drive</p>
-      </p>Room CG604</p>
+      <p>Room CG604</p>
       <p>Hershey, PA 17033</p>
 ---
