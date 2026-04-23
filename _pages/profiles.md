@@ -73,7 +73,7 @@ profiles:
       <p>Hershey, PA 17033</p>
   
   - align: left
-    image: 
+    image: assets/img/DEN.JPG
     content: DEN.md
     image_circular: false # crops the image to make it circular
     more_info: >
