@@ -5,75 +5,39 @@ layout: page
 ---
 
 <div class="post">
-
   <article>
-
     {% if page.profiles %}
-
       {% for profile in page.profiles %}
-
         <hr>
-
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
-
           {% if profile.image %}
-
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-
             {% if profile.image_circular %}
-
               {% assign base_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-
             {% else %}
-
               {% assign base_image_class = 'img-fluid z-depth-1 rounded' %}
-
             {% endif %}
-
             {% if profile.image_class %}
-
               {% assign profile_image_class = base_image_class | append: ' ' | append: profile.image_class %}
-
             {% else %}
-
               {% assign profile_image_class = base_image_class %}
-
             {% endif %}
-
             {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
-
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
-
           {% endif %}
-
           {% if profile.more_info %}
-
             <div class="more-info">{{ profile.more_info }}</div>
-
           {% endif %}
-
         </div>
-
         <div class="clearfix">
-
           {% if profile.content %}
-
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
-
             {{ profile_content | markdownify }}
-
           {% else %}
-
             {{ content }}
-
           {% endif %}
-
         </div>
-
       {% endfor %}
-
     {% endif %}
-
   </article>
-
 </div>
