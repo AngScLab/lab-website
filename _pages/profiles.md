@@ -24,6 +24,7 @@ profiles:
     image: 
     content: SH.md
     image_circular: false # crops the image to make it circular
+    image_class: custom-profile-img
     more_info: >
       <p>717-531-4132</p>
       <p>500 University Drive</p>
@@ -34,6 +35,7 @@ profiles:
     image: 
     content: JEC.md
     image_circular: False # crops the image to make it circular
+    image_class: custom-profile-img
     more_info: >
       <p>717-531-5301</p>
       <p>500 University Drive</p>
@@ -44,6 +46,7 @@ profiles:
     image: RZ.jpeg
     content: RZ.md
     image_circular: false # crops the image to make it circular
+    image_class: custom-profile-img
     more_info: >
       <p>717-531-5301</p>
       <p>500 University Drive</p>
@@ -54,6 +57,7 @@ profiles:
     image: AYL.jpg
     content: AYL.md
     image_circular: False # crops the image to make it circular
+    image_class: custom-profile-img
     more_info: >
       <p>717-531-4704</p>
       <p>500 University Drive</p>
@@ -64,6 +68,7 @@ profiles:
     image: MSN.jpg
     content: MSN.md
     image_circular: false # crops the image to make it circular
+    image_class: custom-profile-img
     more_info: >
       <p>717-531-4132</p>
       <p>500 University Drive</p>
@@ -74,6 +79,7 @@ profiles:
     image: KAE.png
     content: KAE.md
     image_circular: False # crops the image to make it circular
+    image_class: custom-profile-img
     more_info: >
       <p>717-531-4132</p>
       <p>500 University Drive</p>
@@ -84,6 +90,7 @@ profiles:
     image: DEN.JPG
     content: DEN.md
     image_circular: false # crops the image to make it circular
+    image_class: custom-profile-img
     more_info: >
       <p>500 University Drive</p>
       <p>Room CG604</p>
